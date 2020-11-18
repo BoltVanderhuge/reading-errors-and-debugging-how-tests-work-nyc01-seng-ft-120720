@@ -1,9 +1,8 @@
 first_number = 7
 second_number = 10 
 
-def sum 
-  first_number+second_number
-end
+sum = first_number+second_number
+
 
 def difference 
   first_number-second_number
